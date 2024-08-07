@@ -9,9 +9,7 @@ Với mục tiêu chính trên, đề tài có những mục tiêu cụ thể sa
 
 •	Nghiên cứu cơ sở lý thuyết về tấn công mạng, malware. 
 
-•	Nghiên cứu về thuật toán học máy nói chung và thuật toán Support Vector 
-
-Machine nói riêng, các ưu điểm và nhược điểm của thuật toán. 
+•	Nghiên cứu về thuật toán học máy nói chung và thuật toán Support Vector Machine nói riêng, các ưu điểm và nhược điểm của thuật toán. 
 
 •	Nghiên cứu và thu thập tập dữ liệu liên quan đến tấn công mạng. 
 
