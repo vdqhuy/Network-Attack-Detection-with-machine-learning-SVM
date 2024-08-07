@@ -5,7 +5,7 @@
 
 Mục đích chính của đề tài là phát triển một mô hình học máy phát hiện tấn công mạng hiệu quả sử dụng thuật toán học máy Support Vector Machine, nhằm nâng cao hiệu quả trong việc nhận diện các mối đe dọa mạng, từ đó bảo vệ dữ liệu và tài nguyên của tổ chức. 
 
-Với mục tiêu chính trên, đề tài sẽ có những mục tiêu cụ thể sau: 
+Với mục tiêu chính trên, đề tài có những mục tiêu cụ thể sau: 
 
 •	Nghiên cứu cơ sở lý thuyết về tấn công mạng, malware. 
 
