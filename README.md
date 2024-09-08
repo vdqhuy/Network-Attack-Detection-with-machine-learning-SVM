@@ -1,7 +1,5 @@
-Ứng dụng học máy giám sát SVM phát hiện tấn công mạng
-
-
-1.	Description
+# Ứng dụng học máy giám sát SVM phát hiện tấn công mạng
+## Description
 
 Mục đích chính của đề tài là phát triển một mô hình học máy phát hiện tấn công mạng hiệu quả sử dụng thuật toán học máy Support Vector Machine, nhằm nâng cao hiệu quả trong việc nhận diện các mối đe dọa mạng, từ đó bảo vệ dữ liệu và tài nguyên của tổ chức. 
 
@@ -16,7 +14,7 @@ Với mục tiêu chính trên, đề tài có những mục tiêu cụ thể sa
 •	Dựa vào tập dữ liệu, tiền xử lý, huấn luyện, tối ưu hóa và kiểm thử mô hình học máy SVM.
 
 
-2.	Nguồn dataset
+## Nguồn dataset
 
 Bộ dữ liệu gốc có thể tìm thấy trên trang Kaggle - kho dữ liệu lớn và đa dạng các tập dữ liệu miễn phí: https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv/data
 
